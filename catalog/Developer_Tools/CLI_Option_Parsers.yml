@@ -24,6 +24,7 @@ projects:
   - mixlib-cli
   - OptionParser
   - optitron
+  - optimist
   - quickl
   - rationalist
   - slop
